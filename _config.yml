@@ -1,0 +1,14 @@
+layout_spectrum: 0.212619
+typography_spectrum: 0.6829903
+color:
+  saturation: 0.6162029
+  lightness: 0.1716545
+  brandStrength: 0.4767025
+  brandColors:
+    - '#0B0E0F'
+    - '#49C500'
+    - '#FAFCFC'
+    - '#999A9A'
+    - '#0D1FA3'
+  rhythmicContrast: 0.8315105
+name: Arbcore Ltd
